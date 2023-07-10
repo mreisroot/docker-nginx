@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste projeto, há a criação de um container usando o Docker, que utiliza a imagem do servidor web Nginx, que por sua vez hospedará a API de consulta de cep so site [VIACEP](https://viacep.com.br/exemplo/jquery/).
+Neste projeto, há a criação de um container usando o Docker, que utiliza a imagem do servidor web Nginx, que por sua vez hospedará a API de consulta de cep do site [VIACEP](https://viacep.com.br/exemplo/jquery/), contida no arquivo [index.html](./index.html)
 
 ## Como usar este projeto
 
